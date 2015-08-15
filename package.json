@@ -1,7 +1,7 @@
 {
   "name": "json-size",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Find the size (bytes) of a serialized object",
   "license": "MIT",
   "repository": "bendrucker/json-size",
