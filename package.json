@@ -1,0 +1,31 @@
+{
+  "name": "json-size",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Find the size (bytes) of a serialized object",
+  "license": "MIT",
+  "repository": "bendrucker/json-size",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "json",
+    "serialize",
+    "size"
+  ],
+  "devDependencies": {
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "utf8-length": "0.0.1"
+  }
+}
