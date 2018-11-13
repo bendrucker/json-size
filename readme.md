@@ -1,4 +1,4 @@
-# json-size [![Build Status](https://travis-ci.org/bendrucker/json-size.svg?branch=master)](https://travis-ci.org/bendrucker/json-size)
+# json-size [![Build Status](https://travis-ci.org/bendrucker/json-size.svg?branch=master)](https://travis-ci.org/bendrucker/json-size) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/json-size.svg)](https://greenkeeper.io/)
 
 > Find the size (bytes) of a serialized object
 
